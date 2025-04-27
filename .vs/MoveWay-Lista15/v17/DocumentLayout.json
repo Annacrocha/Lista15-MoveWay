@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B526B34-18C0-4D8A-85B1-24943224DFD0}|MoveWay-Lista15\\MoveWay-Lista15.csproj|c:\\users\\gabriel\\source\\repos\\moveway-lista15\\moveway-lista15\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B526B34-18C0-4D8A-85B1-24943224DFD0}|MoveWay-Lista15\\MoveWay-Lista15.csproj|solutionrelative:moveway-lista15\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B526B34-18C0-4D8A-85B1-24943224DFD0}|MoveWay-Lista15\\MoveWay-Lista15.csproj|c:\\users\\gabriel\\source\\repos\\moveway-lista15\\moveway-lista15\\setores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B526B34-18C0-4D8A-85B1-24943224DFD0}|MoveWay-Lista15\\MoveWay-Lista15.csproj|solutionrelative:moveway-lista15\\setores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B526B34-18C0-4D8A-85B1-24943224DFD0}|MoveWay-Lista15\\MoveWay-Lista15.csproj|c:\\users\\gabriel\\source\\repos\\moveway-lista15\\moveway-lista15\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B526B34-18C0-4D8A-85B1-24943224DFD0}|MoveWay-Lista15\\MoveWay-Lista15.csproj|solutionrelative:moveway-lista15\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B526B34-18C0-4D8A-85B1-24943224DFD0}|MoveWay-Lista15\\MoveWay-Lista15.csproj|C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\moveway-lista15\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B526B34-18C0-4D8A-85B1-24943224DFD0}|MoveWay-Lista15\\MoveWay-Lista15.csproj|solutionrelative:moveway-lista15\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "telaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\MoveWay-Lista15\\telaPrincipal.cs",
+              "RelativeDocumentMoniker": "MoveWay-Lista15\\telaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\MoveWay-Lista15\\telaPrincipal.cs",
+              "RelativeToolTip": "MoveWay-Lista15\\telaPrincipal.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:22:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Setores.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\MoveWay-Lista15\\Setores.cs",
+              "RelativeDocumentMoniker": "MoveWay-Lista15\\Setores.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\MoveWay-Lista15\\Setores.cs",
+              "RelativeToolTip": "MoveWay-Lista15\\Setores.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwI4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:02:14.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "conexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\MoveWay-Lista15\\conexaoBD.cs",
+              "RelativeDocumentMoniker": "MoveWay-Lista15\\conexaoBD.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\MoveWay-Lista15\\conexaoBD.cs",
+              "RelativeToolTip": "MoveWay-Lista15\\conexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:13:49.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "telaPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\MoveWay-Lista15\\telaPrincipal.cs",
+              "RelativeDocumentMoniker": "MoveWay-Lista15\\telaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\MoveWay-Lista15\\MoveWay-Lista15\\telaPrincipal.cs [Projeto]",
+              "RelativeToolTip": "MoveWay-Lista15\\telaPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:40:19.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
